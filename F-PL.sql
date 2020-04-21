@@ -1,3 +1,4 @@
+/* This funtion will spell a given Integer between 0 and ±5373484 */
 CREATE OR REPLACE FUNCTION spell_number(n NUMBER)
 RETURN VARCHAR2
 IS
